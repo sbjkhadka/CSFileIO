@@ -1,0 +1,14 @@
+H:\Semester2\COMP123\week02\ListDemo\FileIODemo\bin\Debug\FileIODemo.exe.config
+H:\Semester2\COMP123\week02\ListDemo\FileIODemo\bin\Debug\FileIODemo.exe
+H:\Semester2\COMP123\week02\ListDemo\FileIODemo\bin\Debug\FileIODemo.pdb
+H:\Semester2\COMP123\week02\ListDemo\FileIODemo\obj\Debug\FileIODemo.csprojAssemblyReference.cache
+H:\Semester2\COMP123\week02\ListDemo\FileIODemo\obj\Debug\FileIODemo.csproj.CoreCompileInputs.cache
+H:\Semester2\COMP123\week02\ListDemo\FileIODemo\obj\Debug\FileIODemo.exe
+H:\Semester2\COMP123\week02\ListDemo\FileIODemo\obj\Debug\FileIODemo.pdb
+C:\Users\sbjkhadka\Desktop\COMP123Projects\FileIODemo\bin\Debug\FileIODemo.exe.config
+C:\Users\sbjkhadka\Desktop\COMP123Projects\FileIODemo\bin\Debug\FileIODemo.exe
+C:\Users\sbjkhadka\Desktop\COMP123Projects\FileIODemo\bin\Debug\FileIODemo.pdb
+C:\Users\sbjkhadka\Desktop\COMP123Projects\FileIODemo\obj\Debug\FileIODemo.csprojAssemblyReference.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\FileIODemo\obj\Debug\FileIODemo.csproj.CoreCompileInputs.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\FileIODemo\obj\Debug\FileIODemo.exe
+C:\Users\sbjkhadka\Desktop\COMP123Projects\FileIODemo\obj\Debug\FileIODemo.pdb
